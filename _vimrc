@@ -35,6 +35,8 @@ filetype off
 set rtp+=~/.vim/vundle.git
 call vundle#rc()
 
-Bundle 'Shougo/neocomplcache'
+"Bundle 'Shougo/neocomplcache'
 Bundle 'wakatime/vim-wakatime'
+
 filetype plugin indent on
+
